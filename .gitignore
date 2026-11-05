@@ -34,5 +34,14 @@ secrets.json
 *.swp
 *~
 
+# ===== Xcode =====
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+.swiftpm/
+
 # ===== 其他 =====
 *.tmp
+.DS_Store
